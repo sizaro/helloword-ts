@@ -20,6 +20,7 @@ Here are some helpful websites I used during the project:
 [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
 
 [https://www.typescriptlang.org/docs/handbook/2/basic-types.html](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+
 [https://www.youtube.com/watch?v=HcAXU_GcJc4](https://www.youtube.com/watch?v=HcAXU_GcJc4)
 
 To compile the Typescript file run
