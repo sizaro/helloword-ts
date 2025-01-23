@@ -2,7 +2,7 @@
 
 This project is created to help deepen an understanding of TypeScript basics. As a software engineer, I aim to improve my TypeScript programming skills by building a simple program that outputs "Hello World" using pnpm for project management and dependency installation
 
-[Software Demo Video]()
+[Software Demo Video](https://www.youtube.com/watch?v=n8TOQJOfxyg)
 
 # Development Environment
 
@@ -17,10 +17,12 @@ visual studio code: This i used as workspace to develop the project.
 
 Here are some helpful websites I used during the project:
 
-https://www.typescriptlang.org/docs/
-https://www.typescriptlang.org/docs/handbook/2/basic-types.html
-https://www.youtube.com/watch?v=HcAXU_GcJc4
+[https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+[https://www.typescriptlang.org/docs/handbook/2/basic-types.html](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+[https://www.youtube.com/watch?v=HcAXU_GcJc4](https://www.youtube.com/watch?v=HcAXU_GcJc4)
 
+To compile the Typescript file run
+pnpm tsc hello.ts
 
 To run the project run this in a command prompt
 
